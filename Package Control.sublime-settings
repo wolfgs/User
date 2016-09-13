@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"GitStatus",
+		"jQuery",
+		"JsFormat",
+		"Material Theme",
+		"Package Control",
+		"Smali",
+		"SublimeCodeIntel",
+		"SublimeLinter-contrib-clang",
+		"SyncedSidebarBg",
+		"Theme - Soda SolarizedDark"
+	]
+}

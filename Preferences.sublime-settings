@@ -1,0 +1,13 @@
+{
+	"auto_complete_selector": "source, text",
+	"font_size": 16,
+	 // Additional spacing at the top of each line, in pixels
+    "line_padding_top": 7,
+
+    // Additional spacing at the bottom of each line, in pixels
+    "line_padding_bottom": 7,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
